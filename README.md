@@ -1,7 +1,7 @@
 # Lizeth_Montoya_Garcia
 
 <h1 align="center">¡Hola! 👋,soy Lizeth Yomaira Montoya Garcia</h1>
-<h3 align="center">Una apasionada por el desarrollo Front-end en Colombia</h3>
+<h3 align="center">Una apasionada por el desarrollo Front-end</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lizethyomairamontoyagarcia" alt="lizethyomairamontoyagarcia" /></a> </p>
 
